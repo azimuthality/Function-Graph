@@ -57,6 +57,10 @@ namespace WindowsFormsApp9
             this.оПрограммеToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.exitToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.listView1 = new System.Windows.Forms.ListView();
+            this.button1 = new System.Windows.Forms.Button();
+            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.textBox5 = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.chart1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel2.SuspendLayout();
@@ -198,29 +202,29 @@ namespace WindowsFormsApp9
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(20, 80);
+            this.label5.Location = new System.Drawing.Point(20, 86);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(37, 17);
+            this.label5.Size = new System.Drawing.Size(32, 17);
             this.label5.TabIndex = 16;
-            this.label5.Text = "Step";
+            this.label5.Text = "Шаг";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(20, 47);
+            this.label4.Location = new System.Drawing.Point(10, 53);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(55, 17);
+            this.label4.Size = new System.Drawing.Size(90, 17);
             this.label4.TabIndex = 15;
-            this.label4.Text = "Х value";
+            this.label4.Text = "Значение Х ";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(20, 15);
+            this.label1.Location = new System.Drawing.Point(10, 21);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(55, 17);
+            this.label1.Size = new System.Drawing.Size(86, 17);
             this.label1.TabIndex = 14;
-            this.label1.Text = "Y value";
+            this.label1.Text = "Значение Y";
             // 
             // menuStrip1
             // 
@@ -241,20 +245,20 @@ namespace WindowsFormsApp9
             this.сохранитьToolStripMenuItem,
             this.открытьToolStripMenuItem});
             this.файлToolStripMenuItem.Name = "файлToolStripMenuItem";
-            this.файлToolStripMenuItem.Size = new System.Drawing.Size(57, 24);
+            this.файлToolStripMenuItem.Size = new System.Drawing.Size(59, 24);
             this.файлToolStripMenuItem.Text = "Файл";
             // 
             // сохранитьToolStripMenuItem
             // 
             this.сохранитьToolStripMenuItem.Name = "сохранитьToolStripMenuItem";
-            this.сохранитьToolStripMenuItem.Size = new System.Drawing.Size(162, 26);
+            this.сохранитьToolStripMenuItem.Size = new System.Drawing.Size(170, 26);
             this.сохранитьToolStripMenuItem.Text = "Сохранить ";
             this.сохранитьToolStripMenuItem.Click += new System.EventHandler(this.сохранитьToolStripMenuItem_Click);
             // 
             // открытьToolStripMenuItem
             // 
             this.открытьToolStripMenuItem.Name = "открытьToolStripMenuItem";
-            this.открытьToolStripMenuItem.Size = new System.Drawing.Size(162, 26);
+            this.открытьToolStripMenuItem.Size = new System.Drawing.Size(170, 26);
             this.открытьToolStripMenuItem.Text = "Открыть";
             // 
             // helpToolStripMenuItem
@@ -263,31 +267,66 @@ namespace WindowsFormsApp9
             this.оПрограммеToolStripMenuItem,
             this.exitToolStripMenuItem});
             this.helpToolStripMenuItem.Name = "helpToolStripMenuItem";
-            this.helpToolStripMenuItem.Size = new System.Drawing.Size(53, 24);
+            this.helpToolStripMenuItem.Size = new System.Drawing.Size(55, 24);
             this.helpToolStripMenuItem.Text = "Help";
             // 
             // оПрограммеToolStripMenuItem
             // 
             this.оПрограммеToolStripMenuItem.Name = "оПрограммеToolStripMenuItem";
-            this.оПрограммеToolStripMenuItem.Size = new System.Drawing.Size(179, 26);
+            this.оПрограммеToolStripMenuItem.Size = new System.Drawing.Size(187, 26);
             this.оПрограммеToolStripMenuItem.Text = "О программе";
             this.оПрограммеToolStripMenuItem.Click += new System.EventHandler(this.оПрограммеToolStripMenuItem_Click);
             // 
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(179, 26);
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(187, 26);
             this.exitToolStripMenuItem.Text = "Exit";
             this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
             // 
             // listView1
             // 
+            this.listView1.ForeColor = System.Drawing.SystemColors.InfoText;
             this.listView1.HideSelection = false;
             this.listView1.Location = new System.Drawing.Point(30, 236);
             this.listView1.Name = "listView1";
-            this.listView1.Size = new System.Drawing.Size(210, 205);
+            this.listView1.Size = new System.Drawing.Size(202, 205);
             this.listView1.TabIndex = 22;
             this.listView1.UseCompatibleStateImageBehavior = false;
+            // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.button1.Location = new System.Drawing.Point(53, 359);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(145, 30);
+            this.button1.TabIndex = 23;
+            this.button1.Text = "Увеличить масштаб графика";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // textBox4
+            // 
+            this.textBox4.Location = new System.Drawing.Point(53, 281);
+            this.textBox4.Name = "textBox4";
+            this.textBox4.Size = new System.Drawing.Size(145, 23);
+            this.textBox4.TabIndex = 24;
+            // 
+            // textBox5
+            // 
+            this.textBox5.Location = new System.Drawing.Point(53, 319);
+            this.textBox5.Name = "textBox5";
+            this.textBox5.Size = new System.Drawing.Size(145, 23);
+            this.textBox5.TabIndex = 25;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(33, 261);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(199, 17);
+            this.label6.TabIndex = 26;
+            this.label6.Text = "Задаем значения координат";
             // 
             // Form1
             // 
@@ -295,6 +334,10 @@ namespace WindowsFormsApp9
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.ClientSize = new System.Drawing.Size(718, 476);
+            this.Controls.Add(this.label6);
+            this.Controls.Add(this.textBox5);
+            this.Controls.Add(this.textBox4);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.listView1);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.button9);
@@ -352,6 +395,10 @@ namespace WindowsFormsApp9
         private System.Windows.Forms.ToolStripMenuItem оПрограммеToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem exitToolStripMenuItem;
         private System.Windows.Forms.ListView listView1;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.TextBox textBox5;
+        private System.Windows.Forms.Label label6;
     }
 }
 

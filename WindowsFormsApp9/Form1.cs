@@ -15,6 +15,7 @@ namespace WindowsFormsApp9
 {
     public partial class Form1 : Form
     {
+        private Color color;
         public Form1()
         {
             InitializeComponent();
@@ -95,7 +96,18 @@ namespace WindowsFormsApp9
                 }
             }
         }
-        
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            chart1.ChartAreas[0].AxisX.Maximum = Convert.ToDouble(textBox1.Text); ; //Задаем максимальные значения координат
+            chart1.ChartAreas[0].AxisY.Maximum = Convert.ToDouble(textBox2.Text); ;
+             
+            
+            this.chart1.Series[0].Points.Clear();
+
+            chart1.ChartAreas[0].AxisX.Interval = 1; // и можно интервалы настроить по своему усмотрению
+
+        }
     }
     
 }
