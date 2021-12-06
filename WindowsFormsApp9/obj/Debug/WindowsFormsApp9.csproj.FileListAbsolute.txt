@@ -1,0 +1,30 @@
+C:\Users\инет\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\инет\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\инет\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\инет\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\инет\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\инет\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\инет\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\инет\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\инет\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\инет\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojAssemblyReference.cache
+C:\Users\enigma\Desktop\WindowsFormsApp9 (2)\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojAssemblyReference.cache
+C:\Users\enigma\Desktop\WindowsFormsApp9 (2)\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\enigma\Desktop\WindowsFormsApp9 (2)\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\enigma\Desktop\WindowsFormsApp9 (2)\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\enigma\Desktop\WindowsFormsApp9 (2)\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\enigma\Desktop\WindowsFormsApp9 (2)\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\enigma\Desktop\WindowsFormsApp9 (2)\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\enigma\Desktop\WindowsFormsApp9 (2)\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\enigma\Desktop\WindowsFormsApp9 (2)\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\enigma\Desktop\WindowsFormsApp9 (2)\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\enigma\Desktop\Все дерьмо по учебе\WindowsFormsApp9 (2)\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\enigma\Desktop\Все дерьмо по учебе\WindowsFormsApp9 (2)\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\enigma\Desktop\Все дерьмо по учебе\WindowsFormsApp9 (2)\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\enigma\Desktop\Все дерьмо по учебе\WindowsFormsApp9 (2)\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.AssemblyReference.cache
+C:\Users\enigma\Desktop\Все дерьмо по учебе\WindowsFormsApp9 (2)\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\enigma\Desktop\Все дерьмо по учебе\WindowsFormsApp9 (2)\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\enigma\Desktop\Все дерьмо по учебе\WindowsFormsApp9 (2)\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\enigma\Desktop\Все дерьмо по учебе\WindowsFormsApp9 (2)\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\enigma\Desktop\Все дерьмо по учебе\WindowsFormsApp9 (2)\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\enigma\Desktop\Все дерьмо по учебе\WindowsFormsApp9 (2)\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
